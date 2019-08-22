@@ -31,11 +31,11 @@ A collection of new grad roles for 2020.
 | Flexport | Software Engineer: New Graduate | San Francisco, CA | https://boards.greenhouse.io/flexport/jobs/1802505 |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
-| Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823749 |
-| Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
-| Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |
+| Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | yes | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
+| Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | Link not working| |https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
+| Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | Yes | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |
 | IBM | Frontend Engineer,Backend Engineer | Tucson, AZ; Costa Mesa, CA; Emeryville, CA; Foster City, CA; San Francisco, CA; San Jose, CA; Denver, CO; Atlanta, GA; Sandy Springs, GA; Chicago, IL; Cambridge, MA; Littleton,  MA; Rochester, MN; Durham, NC; Raleigh, NC; Endicott, NY; Hopewell Junction, NY; North Castle, NY; Manhatten, NY; Poughkeepsie, NY; Yorktown Heights, NY; Dublin, OH; Blue Bell, PA; Pittsburgh, PA; Austin, TX; Dallas, TX; Houston, TX; Irving, TX | https://careers.ibm.com/ShowJob/Id/718044/Entry-Level-Front-End-Developer/?lang=en https://careers.ibm.com/ShowJob/Id/718042/Entry-Level-Back-End-Developer/?lang=en |
-| JPMorgan | Software Engineer | New York, NY, USA | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
+| JPMorgan | Software Engineer | New York, NY, USA | N/A | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Nutanix | MTS Developer - New Grad (System) | San Jose, CA | link not working| https://nutanix.eightfold.ai/careers/job?domain=nutanix.com&pid=84009&pid=84009&domain=nutanix.com |

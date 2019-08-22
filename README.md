@@ -32,7 +32,7 @@ A collection of new grad roles for 2020.
 | Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | Link not working| |https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
 | Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | Yes | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |
 | JPMorgan | Software Engineer | New York, NY, USA | N/A | https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
-| Lime | Software Engineer | Bay Area, CA, USA | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
+| Lime | Software Engineer | Bay Area, CA, USA | Yes | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Nutanix | MTS Developer - New Grad (System) | San Jose, CA | https://nutanix.eightfold.ai/careers/job?domain=nutanix.com&pid=84009&pid=84009&domain=nutanix.com |
 | Oculus(Facebook) | Software Engineer, University Grad | Menlo Park, CA | https://www.facebook.com/careers/jobs/458201948352945/ |

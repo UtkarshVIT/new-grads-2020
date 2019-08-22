@@ -26,8 +26,8 @@ A collection of new grad roles for 2020.
 | Duolingo | Software Engineer | Pittsburgh, Pennsylvania | YES | https://boards.greenhouse.io/duolingo/jobs/4351725002 |
 | Essential Products | Software Engineer | Palo Alto, CA | N/A | https://jobs.lever.co/essential/6ded894a-304b-4cdd-a81c-2b6011dce8b4 |
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
-| Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
-| Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
+| Figma | Software Engineer - New Grad | San Francisco | Yes|  https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
+| Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | | N/A | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | yes | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |
 | Hewlett Packard Enterprise | Platform Engineer | Ft. Collins, Colorado | Link not working| |https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Ft.-Collins-Platform-Engineer-Graduate-Program-Colorado/52471296 |
 | Hudson River Trading | Algo Developer, Software Engineer | New York, Austin, Chicago | Yes | http://www.hudson-trading.com/careers/job/?gh_jid=82675 (NY only), http://www.hudson-trading.com/careers/job/?gh_jid=86641 |

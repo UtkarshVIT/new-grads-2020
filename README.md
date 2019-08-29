@@ -30,7 +30,7 @@ A collection of new grad roles for 2020.
 | Facebook | Software Engineer, University Grad | Boston, MA, USA; Washington, DC, USA; New York, NY, USA; Seattle, WA, USA; Menlo Park, CA, USA | https://www.facebook.com/careers/jobs/859448991102087/ |
 | Figma | Software Engineer - New Grad | San Francisco | https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
-| Flexport | Software Engineer: New Graduate | San Francisco, CA | https://boards.greenhouse.io/flexport/jobs/1802505 |
+| Flexport | Software Engineer: New Graduate | San Francisco, CA | Yes | https://boards.greenhouse.io/flexport/jobs/1802505 |
 | Figma | Software Engineer - New Grad | San Francisco | Yes|  https://jobs.lever.co/figma/8def0709-75f2-415d-9360-30fcfdf15587 |
 | Goldman Sach's | New Analyst | New York, NY, USA; Salt Lake City, UT, USA | | N/A | https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html |
 | Gusto | Software Engineer | San Francisco, CA, USA; Denver, CO, USA | yes | https://boards.greenhouse.io/gusto/jobs/1816724, https://boards.greenhouse.io/gusto/jobs/1823033 |

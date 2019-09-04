@@ -43,6 +43,7 @@ A collection of new grad roles for 2020.
 | IBM | Frontend Engineer,Backend Engineer | Tucson, AZ; Costa Mesa, CA; Emeryville, CA; Foster City, CA; San Francisco, CA; San Jose, CA; Denver, CO; Atlanta, GA; Sandy Springs, GA; Chicago, IL; Cambridge, MA; Littleton,  MA; Rochester, MN; Durham, NC; Raleigh, NC; Endicott, NY; Hopewell Junction, NY; North Castle, NY; Manhatten, NY; Poughkeepsie, NY; Yorktown Heights, NY; Dublin, OH; Blue Bell, PA; Pittsburgh, PA; Austin, TX; Dallas, TX; Houston, TX; Irving, TX | https://careers.ibm.com/ShowJob/Id/718044/Entry-Level-Front-End-Developer/?lang=en https://careers.ibm.com/ShowJob/Id/718042/Entry-Level-Back-End-Developer/?lang=en |
 | JPMorgan Chase | Software Engineer Program | New York, NY; Chicago, IL; Columbus, OH; Houston, TX; Newark/Wilmington, DE; Plano, TX; San Francisco, CA; Seattle, WA; Tampa, FL| https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Lime | Software Engineer | Bay Area, CA, USA | Yes | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
+| Lucid | Software Engineer | Salt Lake City, UT, USA | https://www.golucid.co/careers/dd5e02ef-552e-4838-8892-65acb4919b05 |
 | Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
@@ -60,8 +61,7 @@ A collection of new grad roles for 2020.
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Two Sigma | Software Engineer | New York, NY, USA | https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineer/389 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
-| Willowtree | Software Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4380969002/software-engineer-new-grad |
-| Willowtree | Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |
+| Willowtree | Software Engineer - New Grad, Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4380969002/software-engineer-new-grad, https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |
 | Yext | 2020 Software Engineer, New Graduate | New York, USA | https://boards.greenhouse.io/yext/jobs/1808254 |

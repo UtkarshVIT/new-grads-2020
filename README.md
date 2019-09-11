@@ -25,7 +25,8 @@ A collection of new grad roles for 2020.
 | Capital One | Software Engineer | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | YES | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | YES | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
 | Citrix | University Software Engineer | Raleigh, NC, USA; Ft Lauderdale, FL, USA;  Burlington, MA, USA; Santa Clara, CA, USA | Yes | https://jobs.citrix.com/job/CITRA0058R16110/University-Software-Engineer-for-2020 |
-| Databricks | Software Engineer - New Grad | San Francisco, CA | https://boards.greenhouse.io/databricks/jobs/4364076002 |
+| Databricks | Software Engineer - New Grad | San Francisco, CA | https://boards.greenhouse.io/databricks/jobs/4364076002 | 
+| Datadog | Software Engineer - Recent Graduate | Boston, MA; New York, NY | https://www.datadoghq.com/careers/detail/?gh_jid=1826267 |
 | Dell | Data Storage Software Engineer | Seattle, WA | Yes | https://jobs.dell.com/job/seattle/data-storage-software-engineer-new-graduate-seattle-wa/375/9079995 |
 | Discover | 2020 Technology College Hire Program - Software Developer | Riverwoods, IL | https://jobs.discover.com/job/10027266/2020-technology-college-hire-program---software-developer-riverwoods-il/ | 
 | Dropbox | Software Engineer University Grad | San Francisco, CA; Seattle, WA; New York, NY | Yes | https://www.dropbox.com/jobs/listing/1806456 |
@@ -58,9 +59,11 @@ A collection of new grad roles for 2020.
 | Stripe | Software Engineer | Seattle, WA, US; San Francisco, CA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
 | Teachable | Software Engineer (New Graduate) 2020 | New York, USA | https://teachable.com/job_posts/c95762f0-1ea4-4e83-a855-d020f722c445 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
+| Twilio | Software Engineer- New Grad | San Francisco CA, US; Denver, CO, USl; Irvine, CA, US; Redwood City, CA, US | https://boards.greenhouse.io/twilio/jobs/1828798 |
 | Twitter | Software Engineer | San Francisco, CA, USA | https://jobs.smartrecruiters.com/ni/Twitter2/c9c8d155-aab8-43cb-a530-629689467768-2020-university-application-full-time-internship |
 | Two Sigma | Software Engineer | New York, NY, USA | https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineer/389 |
 | Virtu Financial | Software Engineer, Financial Systems Dev | New York, NY, USA | https://boards.greenhouse.io/virtu/jobs/4301070002?gh_src=a40b00752 , https://boards.greenhouse.io/virtu/jobs/4263612002?gh_src=af02fdb02 |
+| Visa | Software Engineer, New Grad | New York, NY, US; San Francisco, CA, US | https://jobs.smartrecruiters.com/Visa/743999694382127-new-college-grad-software-engineer-bachelor-s-degree-multiple-locations | 
 | Willowtree | Software Engineer - New Grad, Software Test Engineer - New Grad | Durham, NC | https://willowtreeapps.com/careers/jobs/4380969002/software-engineer-new-grad, https://willowtreeapps.com/careers/jobs/4381010002/software-test-engineer-new-grad |
 | Wish | Software Engineer, New Grad | San Francisco, CA | https://jobs.lever.co/wish/2173348c-7453-4363-aabd-ba8511e31bea |
 | Yelp | Software Engineer, New Grad | San Francisco, CA | https://www.yelp.com/careers/teams/college-engineering |

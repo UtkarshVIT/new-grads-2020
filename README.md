@@ -72,7 +72,7 @@ A collection of new grad roles for 2020.
 | Samsara | Software Engineer | San Francisco, CA, US; Atlanta, GA, US | https://boards.greenhouse.io/samsara/jobs/1806764 https://boards.greenhouse.io/samsara/jobs/1818464|
 | Square Space | Software Engineer | New York, NY | https://www.squarespace.com/careers/jobs/1852860 |
 | Stripe | Software Engineer | Seattle, WA, US | https://stripe.com/jobs/listing/new-grad-software-engineer/1802651 |
-| Sumo Logic | Advanced Analytics Software Engineer, Frontend Software Engineer (Fresh Grad 2020) | Redwood City, CA, US | https://boards.greenhouse.io/sumologic/jobs/1849474 https://boards.greenhouse.io/sumologic/jobs/1776092|
+| Sumo Logic | Advanced Analytics Software Engineer, Frontend Software Engineer (Fresh Grad 2020) | Redwood City, CA, US | yes | https://boards.greenhouse.io/sumologic/jobs/1849474 https://boards.greenhouse.io/sumologic/jobs/1776092|
 | Teachable | Software Engineer (New Graduate) 2020 | New York, USA | https://teachable.com/job_posts/c95762f0-1ea4-4e83-a855-d020f722c445 |
 | Thumbtack | Software Engineer | San Francisco, CA, USA | https://boards.greenhouse.io/thumbtack/jobs/1814757?gh_src=6262b31c1 |
 | Twilio | Software Engineer- New Grad | San Francisco CA, US; Denver, CO, USl; Irvine, CA, US; Redwood City, CA, US | https://boards.greenhouse.io/twilio/jobs/1828798 |

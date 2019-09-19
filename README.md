@@ -12,8 +12,8 @@ A collection of new grad roles for 2020.
 ## Open Applications
 | Company | Position | Location | Link |
 | --- | --- | --- | --- |
-| Affirm | Software Engineer - New Grad 2020 | San Francisco, CA | https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53 |
-| Airbnb | Software Engineer, New Grad 2020 | Portland, OR, San Francisco, CA, Seattle WA | https://careers.airbnb.com/positions/1820862/ |
+| Affirm | Software Engineer - New Grad 2020 | San Francisco, CA | yes | https://jobs.lever.co/affirm/df87945c-182f-49d6-b323-691ce5c73a53 |
+| Airbnb | Software Engineer, New Grad 2020 | Portland, OR, San Francisco, CA, Seattle WA | yes | https://careers.airbnb.com/positions/1820862/ |
 | Akuna Capital | Junior Developer | Chicago, IL |  YES | https://akunacapital.com/job-details?gh_jid=1755321 |
 | Amazon | Software Development Engineer | Seattle, WA; Austin, TX; Bay Area, CA; Bellevue, WA; Boston, MA; Denver, CO; Detroit, MI; Herndon, VA; Irvine, CA; New York, NY; Madison, WI; Minneapolis, MN; Phoenix, AZ; Portland, OR; San Diego, CA. | YES | https://www.amazon.jobs/en/jobs/908703/software-development-engineer-2020-united-states |
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | YES | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |

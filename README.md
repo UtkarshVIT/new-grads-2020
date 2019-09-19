@@ -23,7 +23,7 @@ A collection of new grad roles for 2020.
 | BlackRock | Software Engineer | New York, NY | N/A (analyst role)| https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-829423/xf-40177a92b6b2/candidate/so/pm/1/pl/1/opp/3592-Analyst-Program-Americas/en-GB |
 | Bloomberg | Software Engineer | New York, NY | Yes| https://careers.bloomberg.com/job/detail/76851 |
 | Bolt | Software Engineer | Toronto, Ontario, Canada; San Francisco, CA, USA | YES | https://www.bolt.com/jobs/software-engineer-new-grad-toronto/b73a1a03-0547-4753-97b4-192affe9a1de/ https://www.bolt.com/jobs/software-engineer-new-grad-sf/397d3220-611b-4f08-ba87-0a03b0d610d6/ |
-| C3.ai | Software Engineer | Redwood City, CA |  https://boards.greenhouse.io/c3iot/jobs/4416889002 |
+| C3.ai | Software Engineer | Redwood City, CA |  yes | https://boards.greenhouse.io/c3iot/jobs/4416889002 |
 | Capital One | Software Engineer | McLean, Virginia; Boston, Massachusetts; New York, New York; San Francisco, California; Chicago, Illinois; Wilmington, Delaware; Richmond, Virginia; Plano, Texas | YES | https://campus.capitalone.com/job/mclean/technology-development-program-associate-2020/1786/12562815 |
 | Cisco | Software Engineer | RTP, NC - San Francisco, CA - Richardson, TX - Austin, TX - Cambridge, MA - Richfield, OH - Knoxville, TN - Lawrenceville, GA | YES | https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Full-Time-United-States/1265288?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program |
 | Cockroach Labs | Software Engineer (Backend); Software Engineer (Frontend) | New York, NY; San Francisco, CA | https://www.cockroachlabs.com/careers/job/?gh_jid=1747769, https://www.cockroachlabs.com/careers/job/?gh_jid=1831902 |

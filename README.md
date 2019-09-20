@@ -50,7 +50,7 @@ A collection of new grad roles for 2020.
 | JPMorgan Chase | Software Engineer Program | New York, NY; Chicago, IL; Columbus, OH; Houston, TX; Newark/Wilmington, DE; Plano, TX; San Francisco, CA; Seattle, WA; Tampa, FL| https://careers.jpmorgan.com/us/en/students/programs/software-engineer-fulltime |
 | Lime | Software Engineer | Bay Area, CA, USA | Yes | https://jobs.lever.co/limebike/fbea1c67-c6a9-42ba-a0a3-475098487a99 |
 | Lucid | Software Engineer | Salt Lake City, UT, USA | https://www.golucid.co/careers/dd5e02ef-552e-4838-8892-65acb4919b05 |
-| Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |
+| Lyft | 2020 New Grad Software Engineer, Generalist | San Francisco, CA, Seattle, WA | yes | https://boards.greenhouse.io/lyft/jobs/4374104002?gh_jid=4374104002 |
 | Mathwork | Engineering Development Group | US-MA-Natick | https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?job_type_id[]=1756& |
 | MemSQL | Software Engineer | Seattle, WA | https://boards.greenhouse.io/memsql/jobs/1666571 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |

@@ -61,7 +61,7 @@ A collection of new grad roles for 2020.
 | Oscar | Software Engineer New Grad | LA; NYC | https://www.hioscar.com/careers/1844816,  https://www.hioscar.com/careers/1845316 |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
 | Peak6 | Software Engineer | Chicago, IL | https://www.peak6.com/open-positions/?gh_jid=1829946|
-| Pinterest | Software Engineer | San Francisco, CA; Seattle, WA | https://careers.pinterest.com/careers/details/1730518 https://careers.pinterest.com/careers/details/1852166|
+| Pinterest | Software Engineer | San Francisco, CA; Seattle, WA | yes | https://careers.pinterest.com/careers/details/1730518 https://careers.pinterest.com/careers/details/1852166|
 | Pure Storage | Software Engineer | Mountain View, CA | https://boards.greenhouse.io/purestorage/jobs/1834451 |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | yes | https://boards.greenhouse.io/qualtrics/jobs/52430 |
 | Qualtrics | Software Engineer, College Grad | Provo, UT, USA; Seattle, WA, USA | https://boards.greenhouse.io/qualtrics/jobs/260179 |

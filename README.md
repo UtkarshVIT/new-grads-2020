@@ -19,7 +19,7 @@ A collection of new grad roles for 2020.
 | American Express | Software Engineer | Phoenix, AZ, USA; Ft. Lauderdale, FL, USA; New York, NY, USA | YES | https://jobs.americanexpress.com/jobs/19013265?lang=en-us&previousLocale=en-US |
 | Apple | Software Engineer (Siri Rotational Program) | Cupertino, CA | Yes | https://jobs.apple.com/en-us/details/200078270/siri-software-engineer-siri-rotational-program?team=MLAI |
 | Applied Intuition | Software Engineer | Sunnyvale, CA | Yes | https://hire.withgoogle.com/public/jobs/appliedintuitioncom/view/P_AAAAAADAAAONASDXZTBdvp |
-| Asana | Software Engineer | San Francisco, New York, Vancouver | https://boards.greenhouse.io/asana/jobs/1793586 |
+| Asana | Software Engineer | San Francisco, New York, Vancouver | yes | https://boards.greenhouse.io/asana/jobs/1793586 |
 | Atlassian | Software Developer- 2020 Graduate |  yes| Mountain View, CA, USA | https://www.atlassian.com/company/careers/detail/5f0772a8-6df5-40f0-8f1a-044effca6699 |
 | BlackRock | Software Engineer | New York, NY | N/A (analyst role)| https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-829423/xf-40177a92b6b2/candidate/so/pm/1/pl/1/opp/3592-Analyst-Program-Americas/en-GB |
 | Bloomberg | Software Engineer | New York, NY | Yes| https://careers.bloomberg.com/job/detail/76851 |

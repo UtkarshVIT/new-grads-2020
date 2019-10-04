@@ -56,7 +56,7 @@ A collection of new grad roles for 2020.
 | Mathwork | Engineering Development Group | US-MA-Natick | https://www.mathworks.com/company/jobs/opportunities/16217-multiple-openings-engineering-development-group-u-s?job_type_id[]=1756& |
 | MemSQL | Software Engineer | Seattle, WA | https://boards.greenhouse.io/memsql/jobs/1666571 |
 | Microsoft | Software Engineer, Data Science | Redmond, Washington, United States / Reston, Virginia, United States / Pittsburgh, Pennsylvania, United States | https://careers.microsoft.com/students/us/en |
-| Mongo | Software Engineer | New York, NY | https://www.mongodb.com/careers/jobs/1821543 |
+| Mongo | Software Engineer | New York, NY | yes | https://www.mongodb.com/careers/jobs/1821543 |
 | Okta | Software Engineer New Grad | Bellevue, WA; San Jose, CA | https://www.okta.com/company/careers/engineering/software-engineer-new-grad-1864647/ |
 | Oscar | Software Engineer New Grad | LA; NYC | https://www.hioscar.com/careers/1844816,  https://www.hioscar.com/careers/1845316 |
 | Palantir | Software Engineer, University Grad | New York, NY, USA; Washington, D.C. | https://jobs.lever.co/palantir/136703f3-37a8-4308-84ef-4e2865daf577?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic https://jobs.lever.co/palantir/93ea128e-cad5-4c46-a42e-04bb9f6fdfbe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic |
